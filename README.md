@@ -1,12 +1,13 @@
 <h1> Hi, I'm David Ramos </h1>
 
-<p>
+<p>  
 Software development student
+  
 </p>
 
 ---
 
-Software development student focused on Front-end, dedicated to building efficient, modern, and well-structured user interfaces. I continuously work on improving my technical skills and applying best practices in every project. I also have interest and foundational knowledge in Back-end concepts, which helps me understand the full application workflow and collaborate more effectively in development environments.
+Software development student focused on Front-end, dedicated to creating modern, efficient, and well-structured user interfaces. I’m constantly improving my technical skills and applying best practices across my projects. I also have an interest in Back-end development, which helps me understand the full application workflow and collaborate more effectively in development environments.
 
 ---
 
